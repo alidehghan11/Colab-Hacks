@@ -18,7 +18,7 @@ printf """$c$b
      \_____\___/|_|\__,_|_.__/    |_|  |_|\__,_|\___|_|\_\___/ 
 
     $r  By Pradyumna Krishna © 2020 $c
-      Github : https://github.com/PradyumnaKrishna/Colab-Hacks          
+      Github : https://github.com/bbachraou/Colab-Hacks          
 $endc$enda""";
 
 sleep 5
